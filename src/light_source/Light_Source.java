@@ -4,7 +4,7 @@ import main.GamePanel;
 import tile_interactive.InteractiveTile;
 
 import java.awt.*;
-
+//this was my failed attempt at making static lighting on the map.
 public class Light_Source extends InteractiveTile {
 
     GamePanel gp;

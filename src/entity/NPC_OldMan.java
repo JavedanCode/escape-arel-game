@@ -8,7 +8,7 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.util.Random;
-
+//This NPC was in an earlier version of the game.
 public class NPC_OldMan extends Entity{
 
     public NPC_OldMan(GamePanel gp){

@@ -169,10 +169,12 @@ public class NPC_Tuberk extends Entity{
 
     public void setDialogue(){
 
-        dialogues[0][0] = "Hey man How you doing?";
+        dialogues[0][0] = "Hey man, I'm Tugberk";
 
         dialogues[1][0] = "Just chilling here..";
-        dialogues[1][1] = "Damn bro you got gun!!";
+        dialogues[1][1] = "I don't like front end development";
+
+        dialogues[2][0] = "Leave me alone I'm working!";
 
 
     }

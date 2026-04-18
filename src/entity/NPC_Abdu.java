@@ -5,6 +5,8 @@ import main.GamePanel;
 import java.awt.*;
 import java.util.Random;
 
+
+//This NPC was supposed to be my friend from real life, I was gonna make him the merchant later.
 public class NPC_Abdu extends Entity{
 
     public static final String npcName = "Abdu";

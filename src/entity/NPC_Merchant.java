@@ -5,7 +5,7 @@ import object.*;
 
 import java.awt.*;
 import java.util.Random;
-
+//This NPC has a merchant buying and selling system,and it still works you can test him out by placing him on the map using the assetSetter.
 public class NPC_Merchant extends  Entity{
 
 

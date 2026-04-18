@@ -1,18 +1,16 @@
 package main;
 
 import buildings.BUILD_BusStation;
-import buildings.BUILD_School;
 import buildings.BUILD_Security;
 import buildings.BUILD_University;
 import data.Progress;
 import decorations.*;
 
-import entity.NPC_Abdu;
+
 import entity.NPC_Tuberk;
 import light_source.Light_Lamp_1;
 import monster.MON_FirstZombie;
 import monster.MON_Vlad;
-import monster.MON_Zombie;
 import object.*;
 
 
