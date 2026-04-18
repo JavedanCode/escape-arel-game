@@ -62,9 +62,9 @@ That said, the project still serves as a solid prototype and a snapshot of my pr
 ## 📸 Screenshots
 
 
-![Screenshot 1](<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/af49d646-fbec-4424-a38a-8d2436f3c74b" />)
-![Screenshot 2](<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/9f8ae8fd-f625-43d6-a5de-b59c8d066cf1" />)
-![Screenshot 3](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/375b5d45-978b-4014-bb8e-5f808f112667" />)
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/af49d646-fbec-4424-a38a-8d2436f3c74b" />
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/9f8ae8fd-f625-43d6-a5de-b59c8d066cf1" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/375b5d45-978b-4014-bb8e-5f808f112667" />
 
 ---
 
